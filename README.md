@@ -1,2 +1,2 @@
-# desafio-dio-pan-primeiro-repositorio
-Desafio de Projeto Git/Github
+# Desafio DIO Banco PAN
+Repositório do desafio de Projeto Git/Github.
