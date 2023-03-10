@@ -1,0 +1,10 @@
+Data: 09/03/23
+
+Comandos básicos Git: 
+cd + nome do repositório (para entrar no repositório que deseja trabalhar).
+git clone (para copiar repositório).
+git status (verificação do andamento do projeto).
+git add . ou -A (adicionar todos modificações no Git).
+git commit -m (inclui todas as modificações e transforma em commit (importante lembrar de abrir "" e colocar comentários coerentes sobre as modificações)).
+git push origin main (com esse comando será possível enviar para nuvem (Github), todos os commits locais que estão na pasta).
+
