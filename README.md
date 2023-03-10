@@ -1,2 +1,2 @@
 # Desafio DIO Banco PAN
-Repositório do desafio de Projeto Git/Github.
+Repositório do Desafio de Projeto Git/Github.
